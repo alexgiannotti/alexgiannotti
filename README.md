@@ -10,16 +10,23 @@
 
 <div align="center" style="display: inline_block"><br>
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexgiannotti&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexgiannotti&layout=compact&langs_count=10&theme=chartreuse-dark"/>
   </div>
-  <div>
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <div><br>
+    <img align="center" alt="Azure" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/azure-original.svg">
+    <img align="center" alt="Azure DevOps" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/Azure-DevOps.svg">    
+    <img align="center" alt="Markdown" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/markdown-original.svg">
+    <img align="center" alt="PowerShell" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/powershell-script-file.svg">
+    <img align="center" alt="YAML" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/yaml-icon.svg">
+    <img align="center" alt="Docker" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/docker-original.svg">
+    <img align="center" alt="Kubernetes" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/kubernetes-icon.svg">
+    <img align="center" alt="Terraform" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/terraform-icon.svg">
+    <img align="center" alt="Terratest" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/Terratest-icon.jpg">
+    <img align="center" alt="Go" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/go-original.svg">
+    <img align="center" alt="TFSec" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/tfsec-icon.png">
+    <img align="center" alt="Packer" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/packer-icon.svg">
+    <img align="center" alt="Vagrant" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/vagrant-original.svg">
+    <img align="center" alt="VSCode" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/vscode-original.svg">
   </div>
 </div>
   
