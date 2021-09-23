@@ -1,7 +1,7 @@
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/alexgiannotti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexgiannotti&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexgiannotti&layout=compact&langs_count=10&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgiannotti&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -9,7 +9,7 @@
 </div>
   
 <div align="center" style="display: inline_block"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgiannotti&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexgiannotti&layout=compact&langs_count=10&theme=highcontrast"/>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
