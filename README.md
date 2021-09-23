@@ -5,32 +5,36 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img height="180em" src="https://github.com/alexgiannotti/alexgiannotti/blob/output/github-contribution-grid-snake.svg"/>
+    <img height="180em" src="https://github.com/alexgiannotti/alexgiannotti/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexgiannotti&layout=compact&langs_count=10&theme=chartreuse-dark"/>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexgiannotti&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+  </div>
+  <div>
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </div>
 </div>
   
 ##
   
 <div align="center" style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/alexgiannotti/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="alexgwasp" target="_blank"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a>
-  <a href="alexgwasp" target="_blank"><img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" target="_blank"></a>
-  <a href="alexgwasp" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
   
 ##
 
-# Hey, I'm Alex! Welcome to my profile!
+# Hey, Welcome to my profile!
 
 - ✨ I work as a DevOps Engineer.
 - ✔️ Studing Kubernetes, Azure and GCP atm.
@@ -69,6 +73,7 @@ Things you'll find in my technical vocabulary:
 
 I built this using:
 - [Rafaella Ballerini Video](https://www.youtube.com/watch?v=TsaLQAetPLU)
+- [Rafaella Ballerini Post](https://www.instagram.com/p/CPjUBhXDNEE/)
 - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [Dev Icons](https://github.com/devicons/devicon)
