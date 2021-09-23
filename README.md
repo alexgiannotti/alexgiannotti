@@ -4,9 +4,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgiannotti&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
-
-![Snake animation](https://github.com/alexgiannotti/alexgiannotti/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center" style="display: inline_block"><br>
+    <img height="180em" src="https://github.com/alexgiannotti/alexgiannotti/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <div>
@@ -34,7 +34,7 @@
   
 ##
 
-# Hey, I'm Alex! Welcome to my profile!
+# Hey, Welcome to my profile!
 
 - ✨ I work as a DevOps Engineer.
 - ✔️ Studing Kubernetes, Azure and GCP atm.
@@ -73,6 +73,7 @@ Things you'll find in my technical vocabulary:
 
 I built this using:
 - [Rafaella Ballerini Video](https://www.youtube.com/watch?v=TsaLQAetPLU)
+- [Rafaella Ballerini Post](https://www.instagram.com/p/CPjUBhXDNEE/)
 - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
 - [Dev Icons](https://github.com/devicons/devicon)
