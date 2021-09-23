@@ -1,15 +1,15 @@
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/alexgiannotti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexgiannotti&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgiannotti&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexgiannotti&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgiannotti&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
   <img height="180em" src="https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg"/>
 </div>
-  
+
 <div align="center" style="display: inline_block"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexgiannotti&layout=compact&langs_count=10&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexgiannotti&layout=compact&langs_count=10&theme=chartreuse-dark"/>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,7 +23,9 @@
   
 <div align="center" style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/alexgiannotti/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexgiannotti/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank"></a>
+  <a href="alexgwasp" target="_blank"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a>
+  <a href="alexgwasp" target="_blank"><img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" target="_blank"></a>
+  <a href="alexgwasp" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
   
 ##
@@ -62,3 +64,11 @@ Things you'll find in my technical vocabulary:
 - Operational Systems (SO): Windows and Linux.
 - Software monitoring: SonarQube, Terratest and TFSec.
 - Environment monitoring: Zabbix, Grafana and Sumo Logic.
+
+##
+
+I built this using:
+- [Rafaella Ballerini Video](https://www.youtube.com/watch?v=TsaLQAetPLU)
+- [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
+- [Dev Icons](https://github.com/devicons/devicon)
