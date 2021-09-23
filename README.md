@@ -1,6 +1,7 @@
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/alexgiannotti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexgiannotti&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexgiannotti&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexgiannotti&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
@@ -10,32 +11,34 @@
 
 <div align="center" style="display: inline_block"><br>
   <div>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexgiannotti&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+    <a href="https://wakatime.com/@alexgiannotti">
+      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexgiannotti&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+    </a>
   </div>
   <div><br>
-    <img align="center" alt="Azure" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/azure-original.svg">
-    <img align="center" alt="Azure DevOps" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/Azure-DevOps.svg">    
-    <img align="center" alt="Markdown" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/markdown-original.svg">
-    <img align="center" alt="PowerShell" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/powershell-script-file.svg">
-    <img align="center" alt="YAML" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/yaml-icon.svg">
-    <img align="center" alt="Docker" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/docker-original.svg">
-    <img align="center" alt="Kubernetes" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/kubernetes-icon.svg">
-    <img align="center" alt="Terraform" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/terraform-icon.svg">
-    <img align="center" alt="Terratest" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/Terratest-icon.jpg">
-    <img align="center" alt="Go" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/go-original.svg">
-    <img align="center" alt="TFSec" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/tfsec-icon.png">
-    <img align="center" alt="Packer" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/packer-icon.svg">
-    <img align="center" alt="Vagrant" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/vagrant-original.svg">
-    <img align="center" alt="VSCode" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/vscode-original.svg">
+    <img alt="Azure" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/azure-original.svg">
+    <img alt="Azure DevOps" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/Azure-DevOps.svg">    
+    <img alt="Markdown" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/markdown-original.svg">
+    <img alt="PowerShell" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/powershell-script-file.svg">
+    <img alt="YAML" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/yaml-icon.svg">
+    <img alt="Docker" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/docker-original.svg">
+    <img alt="Kubernetes" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/kubernetes-icon.svg">
+    <img alt="Terraform" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/terraform-icon.svg">
+    <img alt="Terratest" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/Terratest-icon.jpg">
+    <img alt="Go" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/go-original.svg">
+    <img alt="TFSec" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/tfsec-icon.png">
+    <img alt="Packer" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/packer-icon.svg">
+    <img alt="Vagrant" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/vagrant-original.svg">
+    <img alt="VSCode" height="30" width="40" src="https://github.com/alexgiannotti/alexgiannotti/blob/main/icons/vscode-original.svg">
   </div>
 </div>
   
 ##
   
 <div align="center" style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
+  <img alt="Playstation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank">
+  <img alt="Switch" src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" target="_blank">
+  <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/alexgiannotti/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
