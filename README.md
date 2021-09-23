@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img height="180em" src="https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg"/>
+  <img height="180em" src="https://github.com/alexgiannotti/alexgiannotti/blob/output/github-contribution-grid-snake.svg"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
