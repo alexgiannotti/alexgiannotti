@@ -11,7 +11,7 @@
   </div>
 
   <div><br>
-    <a href="https://wakatime.com/@alexgiannotti">
+    <a href="https://wakatime.com/@agwasp">
       <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexgiannotti&layout=compact&langs_count=10&theme=chartreuse-dark"/>
     </a>
   </div>
